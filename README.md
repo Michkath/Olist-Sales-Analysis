@@ -28,7 +28,7 @@ Pour assurer la performance du rapport, j'ai transformé les données brutes en 
 ## 📊 Aperçu du Dashboard
 
 ### 1. Vue d'ensemble (KPIs & Carte)
-*(Insère ici une capture d'écran de la page principale de ton dashboard)*
+
 ![Vue Générale](https://github.com/Michkath/Olist-Sales-Analysis/blob/main/Images/Dashbord.png)
 
 
