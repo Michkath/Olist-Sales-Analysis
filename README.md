@@ -29,11 +29,8 @@ Pour assurer la performance du rapport, j'ai transformé les données brutes en 
 
 ### 1. Vue d'ensemble (KPIs & Carte)
 *(Insère ici une capture d'écran de la page principale de ton dashboard)*
-![Vue Générale](LIEN_VERS_TON_IMAGE_1.png)
+![Vue Générale](https://github.com/Michkath/Olist-Sales-Analysis/blob/main/Images/Dashbord.png)
 
-### 2. Analyse Logistique & Satisfaction
-*(Insère ici une capture d'écran de la page logistique ou satisfaction)*
-![Logistique](LIEN_VERS_TON_IMAGE_2.png)
 
 ## 💡 Insights Clés
 * **Corrélation Logistique/Satisfaction :** Une augmentation du délai de livraison de X jours entraîne une chute moyenne de Y points sur la note client.
